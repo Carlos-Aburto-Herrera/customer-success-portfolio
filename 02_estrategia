@@ -1,0 +1,21 @@
+# Playbook: Plan de Implementación Estratégica (90 días)
+
+Este documento detalla la hoja de ruta para la adopción de tecnologías de [IA / Automatización / CRM] en un entorno financiero, garantizando escalabilidad y minimizando la disrupción operativa.
+
+## 📅 Fase 1: Diagnóstico y Fundamentos (Días 1-30)
+* **Auditoría de Datos:** Evaluación de la calidad y disponibilidad de datasets (CSV/DBF).
+* **Identificación de "Pain Points":** Entrevistas con stakeholders para detectar cuellos de botella en los flujos de trabajo actuales.
+* **Entregable:** Matriz de criticidad de procesos y definición de KPIs base.
+
+## 🛠 Fase 2: Ejecución y Gestión del Cambio (Días 31-60)
+* **Desarrollo de MVP:** Implementación de [Scripts Python / Integración de Sistema] en un entorno controlado.
+* **Capacitación:** Sesiones de "Hand-on" para usuarios clave, enfocadas en la transición de herramientas tradicionales (Excel) a herramientas automatizadas (Pandas/Python).
+* **Entregable:** Entorno de pruebas operativo y manual de usuario inicial.
+
+## 📈 Fase 3: Escalabilidad y Optimización (Días 61-90)
+* **Integración Continua:** Configuración de flujos automatizados (GitHub Actions).
+* **Monitoreo:** Ajuste de algoritmos basado en métricas de adopción real.
+* **Entregable:** Reporte de impacto final y Dashboard de métricas en tiempo real.
+
+---
+> **Nota de Liderazgo:** Este plan no busca reemplazar el talento humano, sino potenciar la capacidad analítica del equipo financiero mediante la automatización de tareas repetitivas.
